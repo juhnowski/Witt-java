@@ -1,23 +1,26 @@
 package com.juhnowski.onthology;
 
+import com.juhnowski.onthology.logical.LogicalPicture;
+
 import java.util.ArrayList;
 
 public abstract class World extends Reality{
     private Facts facts;
-    private World(){
+    Structure structure;
+    private World(Structure structure){
+        super(structure);
+        this.structure = structure;
         isTheCase = true;
     }
-    public World(Facts facts){
+
+    public World(Structure structure, Facts facts){
+        super(structure);
+        this.structure = structure;
+        isTheCase = true;
         this.facts = facts;
     }
 
-    public abstract Picture scetch();
-
-    public class Picture {
-        public boolean value;
-        public boolean isImagined;
-        public boolean isTheReal;
-    }
+    public abstract LogicalPicture scetch();
 
     public Form<Substance<TheObject>> form;
 
