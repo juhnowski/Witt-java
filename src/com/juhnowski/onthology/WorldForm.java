@@ -1,4 +1,6 @@
 package com.juhnowski.onthology;
 
-public class WorldForm<T> extends LogicForm {
+import com.juhnowski.onthology.logical.LogicForm;
+
+public class WorldForm<T> extends LogicForm<T> {
 }

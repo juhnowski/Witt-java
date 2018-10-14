@@ -7,6 +7,9 @@ import java.util.ArrayList;
 public abstract class World extends Reality{
     private Facts facts;
     Structure structure;
+    public WorldPicture picture;
+
+
     private World(Structure structure){
         super(structure);
         this.structure = structure;
@@ -27,4 +30,5 @@ public abstract class World extends Reality{
     public MaterialProperties materialProperties;
 
     public Form unalterableForm;
+
 }

@@ -4,6 +4,7 @@ import java.util.List;
 
 public class Totality<T> extends ArrayList<T> {
 
-    private Totality() {
+    public Totality() {
+
     }
 }

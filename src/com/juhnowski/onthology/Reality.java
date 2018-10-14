@@ -10,4 +10,10 @@ public class Reality extends Fact{
 
     public ArrayList<PositiveFact> positive;
     public ArrayList<NegativeFact> negative;
+
+    Sense sense;
+    public ArrayList<Picture> pictures;
+
+    public ArrayList<Proposition> completelyDescription;
+
 }

@@ -1,4 +1,9 @@
 package com.juhnowski.onthology.logical;
 
-public class LogicalSyntax {
+import com.juhnowski.onthology.Rule;
+
+import java.util.ArrayList;
+
+public abstract class LogicalSyntax implements Syntax{
+    public ArrayList<Rule> rules;
 }

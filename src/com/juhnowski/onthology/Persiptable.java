@@ -1,4 +1,5 @@
 package com.juhnowski.onthology;
 
-public class Persiptable {
+public interface Persiptable {
+    public PropositionalSign perceive();
 }

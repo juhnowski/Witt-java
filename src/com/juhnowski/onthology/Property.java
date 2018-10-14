@@ -1,4 +1,4 @@
 package com.juhnowski.onthology;
 
-public class Property {
+public class Property<T> {
 }

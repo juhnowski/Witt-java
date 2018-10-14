@@ -1,6 +1,6 @@
 package com.juhnowski.onthology;
 
-public class AtomicFact extends Fact{
+public abstract class AtomicFact extends Fact{
     public  boolean isExist;
     public StatesOfAffairs statesOfAffairs;
     public Structure<Configuration<TheObject>> structure;
@@ -13,5 +13,7 @@ public class AtomicFact extends Fact{
         super();
         this.structure = structure;
     }
+
+    public abstract Thought getPicture();
 
 }

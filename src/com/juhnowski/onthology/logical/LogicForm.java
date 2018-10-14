@@ -1,4 +1,8 @@
-package com.juhnowski.onthology;
+package com.juhnowski.onthology.logical;
 
-public class LogicForm<T> extends Form<T>{
+import com.juhnowski.onthology.Form;
+import com.juhnowski.onthology.Sign;
+
+public class LogicForm<T> extends Form<T> {
+    public Sign sign;
 }

@@ -1,4 +1,6 @@
 package com.juhnowski.onthology;
 
-public class Sense {
+public abstract class Sense extends Possibilities<StatesOfAffairs>{
+
+    public abstract boolean agreement(Sense sense);
 }

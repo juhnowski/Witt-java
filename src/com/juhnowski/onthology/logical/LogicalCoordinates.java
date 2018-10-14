@@ -1,4 +1,6 @@
 package com.juhnowski.onthology.logical;
 
-public class LogicalCoordinates {
+import com.juhnowski.onthology.Coordinates;
+
+public class LogicalCoordinates extends Coordinates {
 }

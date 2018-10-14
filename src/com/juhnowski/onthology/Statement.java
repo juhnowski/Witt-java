@@ -7,6 +7,7 @@ public abstract class Statement {
     private Complexes constituents;
     public boolean hadSense;
 
+    public Statement(){};
     public Statement(Complexes complexes){
         this.complexes = complexes;
     }

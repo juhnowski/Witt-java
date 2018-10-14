@@ -1,4 +1,39 @@
 package com.juhnowski.onthology;
 
-public class Proposition {
+import com.juhnowski.onthology.logical.Syntax;
+
+import java.util.HashMap;
+
+public abstract class Proposition extends Picture<Reality> implements Syntax {
+    public Sense sense;
+    public Statement statement;
+    public Projection projection;
+    public Form<Sense> formOfSense;
+    public PropositionalVariable propositionalVariable;
+    public HashMap<SimpleSign, TheObject> names;
+    public StatesOfAffairs statesOfAffairs;
+
+    public void descript(Expression expression){
+        this.propositionalVariable.descript(expression);
+    }
+
+    public PropositionalSign sign = new PropositionalSign(statesOfAffairs) {
+        @Override
+        public Thought express(Thought thought) {
+            return thought;
+        }
+
+        @Override
+        public Configuration<SimpleSign> correspond(Configuration<TheObject> conf) {
+            return null;
+        }
+    };
+
+    LogicalPlace place;
+
+    public abstract Sense show();
+
+    public abstract boolean makAgree(Reality reality);
+
+    public abstract Inferences drawInferences();
 }

@@ -1,6 +1,10 @@
 package com.juhnowski.onthology.logical;
 
-public interface LogicalSyntax {
-    public ArrayList<Rule> rules;
+import com.juhnowski.onthology.Rule;
+
+import java.util.ArrayList;
+
+public interface Syntax {
+
     public void descript(Object obj);
 }

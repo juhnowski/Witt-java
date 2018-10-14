@@ -1,4 +1,7 @@
 package com.juhnowski.onthology;
 
-public class Sign {
+public abstract class Sign extends PropositionalSign {
+    public SignificationMode mode;
+    public Object significantUse;
+    public Object logicalSyntacticApplication;
 }

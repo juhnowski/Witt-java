@@ -1,4 +1,8 @@
 package com.juhnowski.onthology;
 
-public class LogicalPlace {
+import com.juhnowski.onthology.logical.LogicalCoordinates;
+
+public class LogicalPlace extends Place{
+    PropositionalSign sign;
+    LogicalCoordinates coordinates;
 }
