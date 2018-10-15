@@ -8,7 +8,7 @@ public abstract class World extends Reality{
     private Facts facts;
     Structure structure;
     public WorldPicture picture;
-
+    public ArrayList<ElementaryProposition> description;
 
     private World(Structure structure){
         super(structure);

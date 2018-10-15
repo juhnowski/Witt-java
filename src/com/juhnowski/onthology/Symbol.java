@@ -13,4 +13,6 @@ public abstract class Symbol implements Persiptable {
     }
 
     public void signify(PropositionalSign sign){}
+
+    public Expression<FormalProperties> expression;
 }

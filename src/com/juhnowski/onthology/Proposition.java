@@ -2,9 +2,12 @@ package com.juhnowski.onthology;
 
 import com.juhnowski.onthology.logical.Syntax;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 
 public abstract class Proposition extends Picture<Reality> implements Syntax {
+    public Proposition itFollowsFrom;
+    public boolean isTrue;
     public Sense sense;
     public Statement statement;
     public Projection projection;
@@ -36,4 +39,13 @@ public abstract class Proposition extends Picture<Reality> implements Syntax {
     public abstract boolean makAgree(Reality reality);
 
     public abstract Inferences drawInferences();
+
+    public ArrayList<Property> internal;
+
+    public Property formalProperty;
+
+    public Series<Relation<Proposition>> internalRelations;
+
+    public ArrayList<Operation> operations;
+
 }

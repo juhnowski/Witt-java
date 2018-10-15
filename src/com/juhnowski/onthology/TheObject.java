@@ -23,4 +23,6 @@ public class TheObject extends Thing implements Colourless,Unalterable,Subsisten
     }
 
     public ArrayList<Symbol> realName;
+
+    public FormalConcepts formalConcept;
 }

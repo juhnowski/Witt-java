@@ -2,47 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e4b3084-0de8-41b5-b795-815a68d6868f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/EverydayLanguage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Inferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicOfRepresentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Concept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Concepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Contradiction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/ElementaryProposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/EmpiricalReality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/ExpressionTerm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalConcepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalLaw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralProposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralPropositionForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralitySign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Identity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Probability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/ProbabilityProposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/SuccessiveApplicationOfAnOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Superstition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Tautology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthGround.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LocgicalConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicProposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/LogicalAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/LogicalMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/Negation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/AtomicFact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/AtomicFact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Content.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Content.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Expression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Facts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Facts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Language.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/LogicalPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/LogicalPlace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Persiptable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Persiptable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Picture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Picture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Projection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Projection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Properties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Properties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Property.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Property.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Form.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Form.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Inferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Inferences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Proposition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Proposition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalSign.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Reality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Reality.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Relation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Relation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Rule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Rule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Sense.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Sense.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Sign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Sign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/SimpleSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/SimpleSign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Statement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/StatesOfAffairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/StatesOfAffairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Structure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Structure.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Symbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Symbol.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/TheObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/TheObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Thought.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Thought.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Totality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Totality.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/World.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/WorldForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/WorldForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/WorldPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/WorldPicture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalCoordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalCoordinates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalPicture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalSyntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalSyntax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Syntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Syntax.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,13 +75,13 @@
         <counts>
           <entry key="Contacts" value="1" />
           <entry key="License" value="1" />
-          <entry key="java" value="163" />
+          <entry key="java" value="226" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="163" />
+          <entry key="JAVA" value="226" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -79,12 +89,12 @@
         <counts>
           <entry key="Contacts" value="39" />
           <entry key="dummy" value="3" />
-          <entry key="java" value="5921" />
+          <entry key="java" value="8035" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5921" />
+          <entry key="JAVA" value="8035" />
           <entry key="PLAIN_TEXT" value="42" />
         </counts>
       </usages-collector>
@@ -92,111 +102,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Human.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Model.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Projection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicOfRepresentation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Proposition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#861#862#0" expanded="true" />
-                <element signature="e#896#897#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Inferences.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/StatesOfAffairs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Reality.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Syntax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/WorldForm.java">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Term.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Expression.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/ExpressionTerm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralitySign.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Identity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/EmpiricalReality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Human.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicProposition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Logic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/TruthArguments.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -211,63 +209,68 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rela</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Structure.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Form.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Fact.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/NegativeFact.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/PositiveFact.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Space.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Self.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Situation.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Element.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Form.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Picture.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/WorldForm.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Sense.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Facts.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalPicture.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/AtomicFact.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Picture.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/World.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Property.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Properties.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Statement.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/WorldPicture.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Relation.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/SimpleSign.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Content.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Persiptable.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Word.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicForm.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Sign.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Expression.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalVariable.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Syntax.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalSyntax.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/TheObject.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalSign.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Symbol.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Rule.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalCoordinates.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/LogicalPlace.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Thought.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Totality.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/EverydayLanguage.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Language.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Model.java" />
         <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Projection.java" />
         <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicOfRepresentation.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/StatesOfAffairs.java" />
         <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Reality.java" />
-        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Proposition.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/StatesOfAffairs.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Form.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Relation.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Series.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalProperties.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Concepts.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Symbol.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalConcepts.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalVariable.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Sign.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Variable.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/TheObject.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/World.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/ElementaryProposition.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Contradiction.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Tautology.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralPropositionPre.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthGround.java" />
         <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Inferences.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Superstition.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthFunction.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthArguments.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralPropositionForm.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralProposition.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Event.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/ProbabilityProposition.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Probability.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Structure.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionStructure.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Operation.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Proposition.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/Negation.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/LogicalAddition.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/LogicalMultiplication.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalSeries.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Term.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/SuccessiveApplicationOfAnOperations.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthOperation.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicObject.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LocgicalConstants.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Expression.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/ExpressionTerm.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralitySign.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Identity.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/EmpiricalReality.java" />
         <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Human.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicProposition.java" />
+        <option value="$PROJECT_DIR$/src/com/juhnowski/onthology/Logic.java" />
       </list>
     </option>
   </component>
@@ -318,7 +321,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539525547515" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539563055178" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -397,40 +400,51 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Form.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Concepts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Form.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Structure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/AtomicFact.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Symbol.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/World.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalVariable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="102">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Sign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/FormalConcepts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/TheObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -446,372 +460,331 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Possibility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Possibilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Fact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Sense.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/WorldPicture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Property.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Properties.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/AtomicFact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalPicture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Relation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Statement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Content.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/SimpleSign.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
           <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
             <element signature="e#316#317#0" expanded="true" />
             <element signature="e#343#344#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Persiptable.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/World.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="17">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/SignificationMode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/ElementaryProposition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        <state relative-caret-position="85">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Word.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Contradiction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Tautology.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralPropositionPrePre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralPropositionPre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/TruthGround.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Inferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/TruthFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralPropositionForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Event.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicForm.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Superstition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Expression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalVariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalSyntax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/TheObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-          <folding>
-            <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalSign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Sign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Symbol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Rule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Coordinates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalCoordinates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Place.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/LogicalPlace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Thought.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Totality.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/EverydayLanguage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Language.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Picture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/WorldForm.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Statements.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Model.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/ProbabilityProposition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Probability.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Projection.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Structure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicOfRepresentation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionStructure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Syntax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/StatesOfAffairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Reality.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Proposition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+        <state relative-caret-position="222">
+          <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#861#862#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Inferences.java">
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/Negation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/LogicalAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/LogicalMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralProposition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/FormalSeries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/SuccessiveApplicationOfAnOperations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="77" lean-forward="true" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/TruthOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="102" lean-forward="true" selection-start-line="5" selection-start-column="102" selection-end-line="5" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LocgicalConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/FormalLaw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/TruthArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Term.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/ExpressionTerm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralitySign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Identity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/EmpiricalReality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Human.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicProposition.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Logic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
