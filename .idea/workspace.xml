@@ -2,243 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e4b3084-0de8-41b5-b795-815a68d6868f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Affair.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Affairs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/All.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/AtomicFact.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Changing.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Colour.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Colourless.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Combination.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Complex.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Complexes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Concept.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Concepts.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Configuration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Content.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Contradiction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Coordinates.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Element.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/ElementaryProposition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/EmpiricalReality.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Event.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/EverydayLanguage.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Expression.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/ExpressionTerm.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Fact.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Facts.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Form.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalConcepts.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalLaw.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalProperties.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalSeries.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Function.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralProposition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralPropositionForm.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralitySign.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Human.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Identity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Inferences.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Language.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Logic.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/LogicalPlace.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/MaterialProperties.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Model.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/NegativeFact.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Operation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Persiptable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Picture.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Place.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/PositiveFact.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Possibilities.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Possibility.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Probability.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/ProbabilityProposition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Projection.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Properties.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Property.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Proposition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionStructure.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalSign.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalVariable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/RealWorld.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Reality.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Relation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Rule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Self.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Sense.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Series.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Sign.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/SignificationMode.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/SimpleSign.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Space.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/State.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Statement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Statements.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/StatesOfAffairs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Structure.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Subsistent.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Substance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/SuccessiveApplicationOfAnOperations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Superstition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Symbol.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Tautology.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Term.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/TheObject.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/TheObjectForm.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Thing.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Thought.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Time.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Totality.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/TotalityOfAllFacts.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthArguments.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthGround.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthOperation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Unalterable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Unstable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Variable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/Word.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/World.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/WorldForm.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/WorldPicture.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LocgicalConstants.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicForm.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicObject.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicOfRepresentation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicProposition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalCoordinates.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalPicture.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalSyntax.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Situation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Space.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Syntax.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/LogicalAddition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/LogicalMultiplication.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/Negation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Witt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Witt.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Affair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Affairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/All.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/AtomicFact.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Changing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Colour.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Colourless.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Combination.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Complex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Complexes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Concept.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Concepts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Configuration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Content.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Contradiction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Coordinates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Element.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/ElementaryProposition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/EmpiricalReality.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Event.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/EverydayLanguage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Expression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/ExpressionTerm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Fact.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Facts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Form.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalConcepts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalLaw.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/FormalSeries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Function.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralProposition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralPropositionForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/GeneralitySign.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Identity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Inferences.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Language.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Logic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/LogicalPlace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/MaterialProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Model.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/NegativeFact.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Operation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Persiptable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Picture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Place.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/PositiveFact.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Possibilities.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Possibility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Probability.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/ProbabilityProposition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Projection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Properties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Property.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Proposition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionStructure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalSign.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionalVariable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/RealWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Reality.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Relation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Rule.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Self.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Sense.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Series.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Sign.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/SignificationMode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/SimpleSign.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Space.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Statement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Statements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/StatesOfAffairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Structure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Subsistent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Substance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/SuccessiveApplicationOfAnOperations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Superstition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Symbol.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Tautology.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Term.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/TheObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/TheObjectForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Thing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Thought.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Time.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Totality.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/TotalityOfAllFacts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthArguments.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthFunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthGround.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/TruthOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Unalterable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Unstable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Variable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/Word.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/World.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/WorldForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/WorldPicture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LocgicalConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicOfRepresentation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicProposition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalCoordinates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalPicture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/LogicalSyntax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Situation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Space.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/Syntax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/LogicalAddition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/LogicalMultiplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/Negation.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -250,33 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Function.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Human.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Complex.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Complexes.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -286,46 +23,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Concept.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Content.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Concepts.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Configuration.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/World.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/EverydayLanguage.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/WorldPicture.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Expression.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="60">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -335,9 +54,54 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="450">
-                <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+                <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Word.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Changing.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Colour.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Colourless.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Combination.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -434,6 +198,17 @@
             <path>
               <item name="Witt-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Witt-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Witt-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Witt-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Witt-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Witt-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="onthology" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -552,30 +327,6 @@
     <option name="serverIp" value="localhost" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Structure.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/PropositionStructure.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Proposition.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/logical/operations/Negation.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -692,55 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Colour.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Colourless.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Affair.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Affairs.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/All.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/AtomicFact.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Changing.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Persiptable.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -804,20 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Combination.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Concepts.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/FormalConcepts.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -867,13 +555,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Complexes.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Concept.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -909,11 +590,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Affair.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Affairs.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/All.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/AtomicFact.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Changing.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Colour.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Colourless.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Combination.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Complexes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Concepts.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/Word.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/World.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/juhnowski/onthology/WorldPicture.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="450">
-            <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+            <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
           </first_editor>
           <second_editor />
         </state>
